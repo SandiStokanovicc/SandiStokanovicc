@@ -4,7 +4,7 @@ I enjoy working with backend, and I am currently learning Django, with some expe
 
 What I like to work with: Django / PHP / SQL / Java / JavaScript / CSS / HTML
 
-- 🔭 I’m currently working on a statistics tracker for League of Legends 
+- 🔭 I’m currently working on a pinterest style social media app in Django.
 - 🌱 I’m currently learning Django 
 - 📫 How to reach me: sandistokanovic@gmail.com 
 
