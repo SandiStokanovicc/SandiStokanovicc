@@ -2,10 +2,8 @@
 #### and I'm an Information technology student at International Burch university.
 I enjoy working with backend, and I am currently learning Django, with some experience in PHP and Java. 
 
-What I like to work with: Django / PHP / SQL / Java / JavaScript / CSS / HTML
-
-- 🔭 I’m currently working on a pinterest style social media app in Django.
-- 🌱 I’m currently learning Django 
+What I like to work with: Django / .NET / Angular / SQL / JavaScript / CSS / HTML
+ 
 - 📫 How to reach me: sandistokanovic@gmail.com 
 
 
